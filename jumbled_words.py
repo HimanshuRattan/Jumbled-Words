@@ -1,7 +1,7 @@
 import random
 
 def choose():
-    words=['hello', 'computer', 'mathematics', 'python', 'reverse' , 'palindrome']
+    words=['hello', 'computer', 'mathematics', 'python', 'reverse' , 'palindrome','repository', 'photosynthesis', 'github', 'jumble', 'javascript']
     pick=random.choice(words)
     return pick
 
